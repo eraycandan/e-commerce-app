@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "737550",
+      "username": "eray0",
+      "password": "33",
+      "term": true,
+      "balance": 1000
+    },
+    {
+      "id": "203402",
+      "username": "eray1",
+      "password": "22",
+      "term": true,
+      "balance": 1000
+    },
+    {
+      "id": "863149",
+      "username": "erooo",
+      "password": "123",
+      "term": true,
+      "balance": 1000
+    },
+    {
+      "id": "909646",
+      "username": "eray4",
+      "password": "11",
+      "term": true,
+      "balance": 1000
+    },
+    {
+      "id": "750025",
+      "username": "eray00",
+      "password": "111",
+      "term": true,
+      "balance": 1000
+    }
+  ]
+}
